@@ -1,4 +1,4 @@
-# challenger Forum_hub - ONE
+# Forum_hub
 
 Projeto de API Rest, onde foi construido uma api que faz requisições de usuário, tópico e curso, montando um fórum. No futuro serão implementados mais funcionalidades.
 
